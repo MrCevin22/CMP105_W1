@@ -1,2 +1,7 @@
 # CMP105_W1
 Lab1 window
+
+Nick Henderson
+1802760
+
+
